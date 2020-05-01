@@ -122,7 +122,7 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 Caso você queira ver como resolver o desafio, fizemos um video explicando o passo a passo para cumprir com todos os requisitos da aplicação:
 
 <a href="https://youtu.be/FYsFvjM6AJM" target="_blank" align="center">
-  <img src="https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-nodejs/assets/challenge-05-thumb.png">
+  <img src="./assets/challenge-05-thumb.png">
 </a>
 
 ## :memo: Licença
